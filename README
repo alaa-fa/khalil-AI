@@ -1,0 +1,24 @@
+Khalil Web Interface
+Khalil is a web application designed to provide mental health support through a life coach and therapist chatbot, as well as a mood tracker to help users monitor their emotional well-being. The interface is built using Streamlit and integrates OpenAI's ChatGPT for conversational support.
+
+Features:
+Page 1: Life Coach and Therapist Chatbot
+Text and Audio Input: Users can interact with the chatbot using text or audio inputs.
+AI-Powered Conversations: The chatbot, powered by OpenAI's ChatGPT, provides responses as a life coach and therapist, offering support and advice.
+Page 2: Mood Tracker
+Daily Mood Entry: Users can input a sentence describing their day.
+Mood Tracker Graph: The application updates a mood tracker graph based on the user's input, helping them visualize their emotional trends over time.
+
+Usage: 
+Life Coach and Therapist Chatbot
+1. Navigate to the first page of the web interface.
+2. Choose between text or audio input.
+3. Enter your text or record your audio message.
+4. The chatbot will respond with support and advice.
+Mood Tracker
+1. Navigate to the second page of the web interface.
+2. Input a sentence describing your day.
+3. View the updated mood tracker graph to monitor your emotional well-being over time.
+
+Contributing:
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
