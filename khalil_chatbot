@@ -22,7 +22,7 @@ def get_avatar(user_role):
     
 
 # API KEY AND ENVIRONMNENT INITIALIZATION
-API_KEY = 'sk-proj-oUMTpRuEUBnl9LUbjBGTT3BlbkFJ4mFy0AeXnTVQGVr7V31U'  # Replace with your actual key
+API_KEY = ''  # Replace with your actual key
 os.environ["OPENAI_API_KEY"] = API_KEY
 openai.api_key = os.getenv("OPENAI_API_KEY")
 display_right_aligned_title("خليل: رفيقك في رحلة التحسين الذاتي")
